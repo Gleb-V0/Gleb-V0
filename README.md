@@ -52,5 +52,22 @@
     <img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png" alt="Telegram" width="40" height="40"/>
   </a>
   <a href="#" onclick="copyEmail(event)" title="Скопировать почту в буфер обмена">
-    <img src="https://img.icons8.com/color/48/000000/email.png" alt="Email" width="40" height="40"/>
+    <img src="https://storage.googleapis.com/gweb-workspace-assets/uploads/7uffzv9dk4sn-2ANudyZddMUfBdOX8YWDbe-8da52413e8fe627a74e653f02de3e001-Gmail.svg" alt="Gmail" width="40" height="40"/>
   </a>
+</p>
+
+<script>
+function copyEmail(event) {
+  event.preventDefault();
+  const email = 'glebv5.gv@gmail.com';
+  navigator.clipboard.writeText(email).then(function() {
+    const originalTitle = event.currentTarget.getAttribute('title');
+    event.currentTarget.setAttribute('title', 'Почта скопирована!');
+    setTimeout(() => {
+      event.currentTarget.setAttribute('title', originalTitle);
+    }, 2000);
+  }).catch(function(err) {
+    console.error('Ошибка при копировании: ', err);
+  });
+}
+</script>
