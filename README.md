@@ -59,7 +59,7 @@
 <script>
 function copyEmail(event) {
   event.preventDefault();
-  const email = 'glebv5.gv@gmail.com';
+  const email = 'your-email@gmail.com'; // Замените на вашу реальную почту Gmail
   navigator.clipboard.writeText(email).then(function() {
     const originalTitle = event.currentTarget.getAttribute('title');
     event.currentTarget.setAttribute('title', 'Почта скопирована!');
