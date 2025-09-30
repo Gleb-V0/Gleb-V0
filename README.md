@@ -48,26 +48,10 @@
 
 <h3 align="left">Связаться со мной:</h3>
 <p align="left">
-  <a href="https://Gleb_V0" target="_blank">
+  <a href="https://t.me/Gleb_V0" target="_blank" title="Написать в Telegram">
     <img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png" alt="Telegram" width="40" height="40"/>
   </a>
-  <a href="#" onclick="copyEmail(event)" title="Скопировать почту в буфер обмена">
-    <img src="https://storage.googleapis.com/gweb-workspace-assets/uploads/7uffzv9dk4sn-2ANudyZddMUfBdOX8YWDbe-8da52413e8fe627a74e653f02de3e001-Gmail.svg" alt="Gmail" width="40" height="40"/>
+  <a href="mailto:your-email@gmail.com" title="your-email@gmail.com - Нажмите чтобы скопировать" onclick="this.setAttribute('title', 'Почта скопирована! Скопируйте: your-email@gmail.com'); setTimeout(() => this.setAttribute('title', 'your-email@gmail.com - Нажмите чтобы скопировать'), 2000);">
+    <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail" width="40" height="40"/>
   </a>
 </p>
-
-<script>
-function copyEmail(event) {
-  event.preventDefault();
-  const email = 'your-email@gmail.com'; // Замените на вашу реальную почту Gmail
-  navigator.clipboard.writeText(email).then(function() {
-    const originalTitle = event.currentTarget.getAttribute('title');
-    event.currentTarget.setAttribute('title', 'Почта скопирована!');
-    setTimeout(() => {
-      event.currentTarget.setAttribute('title', originalTitle);
-    }, 2000);
-  }).catch(function(err) {
-    console.error('Ошибка при копировании: ', err);
-  });
-}
-</script>
