@@ -1,16 +1,50 @@
-## Hi there 👋
+<br clear="both">
 
-<!--
-**Gleb-V0/Gleb-V0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img height="300" width="600" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
+</div>
 
-Here are some ideas to get you started:
+###
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1 align="center" style="white-space: nowrap;">Всем привет 👋, меня зовут Глеб, я начинающий аналитик из Ростова-на-Дону</h1>
+
+<h3 align="left">Немного обо мне:</h3>
+<p align="left"> 
+
+- Финалист DANO '24, участник хакатонов в Москве и Майкопе  
+   
+  
+- Прошел курс от Анатолия Карпова ["Основы статистики"](https://stepik.org/course/76/syllabus)  
+  
+
+- Окончил Яндекс Лицей по Большим данным и Анализу данных  
+  
+
+- Призёр олимпиад: Высшая проба, РАНХиГС и Плехановской  
+  
+
+
+<h3 align="left">Инструменты, которыми я владею:</h3>
+<p align="left"> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  </a> 
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
+  </a>
+  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="matplotlib" width="40" height="40"/> 
+  </a>
+  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> 
+  </a>
+  <a href="https://openpyxl.readthedocs.io/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.worldvectorlogo.com/logos/microsoft-excel-2013.svg" alt="excel" width="40" height="40"/> 
+  </a>
+</p>
+
+<h3 align="left">Связаться со мной:</h3>
+<p align="left">
+  <a href="https://Gleb_V0" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png" alt="Telegram" width="40" height="40"/>
+  </a>
