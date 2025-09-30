@@ -51,7 +51,6 @@
   <a href="https://t.me/Gleb_V0" target="_blank" title="Написать в Telegram">
     <img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png" alt="Telegram" width="40" height="40"/>
   </a>
-  <a href="mailto:your-email@gmail.com" title="your-email@gmail.com - Нажмите чтобы скопировать" onclick="this.setAttribute('title', 'Почта скопирована! Скопируйте: your-email@gmail.com'); setTimeout(() => this.setAttribute('title', 'your-email@gmail.com - Нажмите чтобы скопировать'), 2000);">
-    <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail" width="40" height="40"/>
-  </a>
-</p>
+<a href="mailto:your-email@gmail.com" title="Написать на your-email@gmail.com">
+  <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail" width="40" height="40"/>
+</a>
