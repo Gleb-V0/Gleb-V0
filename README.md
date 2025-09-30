@@ -51,6 +51,3 @@
   <a href="https://t.me/Gleb_V0" target="_blank" title="Написать в Telegram">
     <img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png" alt="Telegram" width="40" height="40"/>
   </a>
-<a href="mailto:your-email@gmail.com" title="Написать на your-email@gmail.com">
-  <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail" width="40" height="40"/>
-</a>
