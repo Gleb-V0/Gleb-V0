@@ -51,3 +51,6 @@
   <a href="https://Gleb_V0" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png" alt="Telegram" width="40" height="40"/>
   </a>
+  <a href="#" onclick="copyEmail(event)" title="Скопировать почту в буфер обмена">
+    <img src="https://img.icons8.com/color/48/000000/email.png" alt="Email" width="40" height="40"/>
+  </a>
