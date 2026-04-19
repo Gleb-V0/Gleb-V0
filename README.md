@@ -6,7 +6,7 @@
 
 ###
 
-<h1 align="center" style="white-space: nowrap;">Всем привет 👋, меня зовут Глеб, я начинающий аналитик из Ростова-на-Дону</h1>
+<h1 align="center" style="white-space: nowrap;">Всем привет 👋, меня зовут Вершанский Глеб, я начинающий аналитик</h1>
 
 <h3 align="left">Немного обо мне:</h3>
 <p align="left"> 
