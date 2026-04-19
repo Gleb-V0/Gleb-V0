@@ -53,12 +53,6 @@
   <a href="https://jupyter.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="50"/>
   </a>
-  <a href="https://chat.openai.com" target="_blank">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMdM9MEQ0ExL1PmInT3U5I8v63YXBEdoIT0Q&s" width="50"/>
-  </a>
-  <a href="https://openai.com/research/openai-codex" target="_blank">
-    <img src="https://persistent.oaistatic.com/codex/icon.png" width="50"/>
-  </a>
 </p>
 
 <h3 align="left">Связаться со мной</h3>
