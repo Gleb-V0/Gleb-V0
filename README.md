@@ -8,7 +8,7 @@
 
 <h1 align="center" style="white-space: nowrap;">Hello everyone, I am Gleb Vershansky, a data analyst</h1>
 
-<h3 align="left">Немного обо мне:</h3>
+<h2 align="left">Немного обо мне:</h2>
 <p align="left"> 
 
 - Финалист DANO '24, участник хакатонов в Москве и Майкопе  
