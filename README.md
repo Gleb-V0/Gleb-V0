@@ -22,7 +22,7 @@
 - Лаурят 2 степени конкурса "Большая перемена"
   
 
-<h2 align="left">Инструменты, которыми я владею:</h2>
+<h3 align="left">Инструменты, которыми я владею:</h3>
 
 <p align="left">
   <a href="https://www.python.org" target="_blank">
@@ -48,7 +48,7 @@
   </a>
 </p>
 
-<h2 align="left">Связаться со мной</h2>
+<h3 align="left">Связаться со мной</h3>
 
 <p align="left">
   <a href="https://t.me/GlebV0" target="_blank">
