@@ -29,7 +29,7 @@
 
 
 
-<h3 align="left">Инструменты, которыми я владею:</h3>
+<h2 align="left">Инструменты, которыми я владею:</h2>
 
 <p align="left">
   <a href="https://www.python.org" target="_blank">
@@ -55,7 +55,7 @@
   </a>
 </p>
 
-<h3 align="left">Связаться со мной</h3>
+<h2 align="left">Связаться со мной</h2>
 
 <p align="left">
   <a href="https://t.me/GlebV0" target="_blank">
