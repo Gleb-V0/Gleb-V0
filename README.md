@@ -54,3 +54,15 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="50"/>
   </a>
 </p>
+
+<h3 align="left">📩 Let's Connect</h3>
+
+<p align="left">
+  <a href="https://t.me/Gleb_V0" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+  </a>
+  
+  <a href="mailto:your_email@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
